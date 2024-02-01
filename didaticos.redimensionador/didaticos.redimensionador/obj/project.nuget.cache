@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VFLZ8f9XU06ByirtS3EQ9ofEAlj92PBxW/fMJPtlAS0EnL1T3tVo7v57U1rPx+cQmecjPbOIKTkZFZxKb1RXOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\55119\\source\\repos\\didaticos.redimensionador\\didaticos.redimensionador\\didaticos.redimensionador.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\55119\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\55119\\.nuget\\packages\\system.drawing.common\\8.0.1\\system.drawing.common.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
